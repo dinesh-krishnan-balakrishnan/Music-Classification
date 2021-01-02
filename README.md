@@ -1,6 +1,6 @@
 # Music Classification
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="./spectrogram_example.jpg" width="1000" />
+<img src="./spectrogram_example.jpg" width="1000" />
 
 ## Using Spectrogram Images
 
