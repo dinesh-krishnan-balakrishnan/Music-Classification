@@ -1,6 +1,6 @@
 # Music Classification
 
-[](./spectrogram_example.jpg)
+![](./spectrogram_example.jpg)
 
 ## Using Spectrogram Images
 
