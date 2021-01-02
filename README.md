@@ -1,5 +1,7 @@
 # Music Classification
 
+[](./spectrogram_example.jpg)
+
 ## Using Spectrogram Images
 
 When initially thinking about music classification, the first thing that came to mind was turning audio into images. Creating spectrograms using the **LibROSA** package does just that. The full process is as follows:
