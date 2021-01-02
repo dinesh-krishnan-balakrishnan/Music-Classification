@@ -1,6 +1,6 @@
 # Music Classification
 
-<img src="./spectrogram_example.jpg" width="1000" />
+<img src="./spectrogram_example.jpg" width="500" />
 
 ## Using Spectrogram Images
 
